@@ -2,6 +2,7 @@ package com.esdraz;
 
 import com.esdraz.exercicios.Exercicio01;
 import com.esdraz.exercicios.Exercicio02;
+import com.esdraz.exercicios.Exercicio03;
 
 import java.util.Scanner;
 
@@ -18,6 +19,7 @@ public class Main {
             switch (opcao) {
                 case 1 -> Exercicio01.main(null);
                 case 2 -> Exercicio02.main(null);
+                case 3 -> Exercicio03.main(null);
                 case 4 -> System.out.println("Saindo...");
                 default -> System.out.println("Opcão invalida!");
             }

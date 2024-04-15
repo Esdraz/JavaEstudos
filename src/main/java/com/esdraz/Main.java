@@ -1,6 +1,6 @@
 package com.esdraz;
 
-import com.esdraz.exercicios.*;
+import com.esdraz.exercicios.fundamentos.*;
 
 import java.util.Scanner;
 

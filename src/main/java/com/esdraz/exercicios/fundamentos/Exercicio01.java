@@ -1,4 +1,4 @@
-package com.esdraz.exercicios;
+package com.esdraz.exercicios.fundamentos;
 
 import java.util.Scanner;
 
